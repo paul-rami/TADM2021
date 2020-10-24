@@ -21,3 +21,7 @@ print(x+y)
 
 z = x + y
 
+import math
+
+math.ceil()
+
